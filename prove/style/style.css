@@ -1,0 +1,24 @@
+*{
+    text-decoration: none;
+}
+h2{
+    font-size: 30px;
+    color: brown;
+}
+ul li{
+    padding: 2px;
+    letter-spacing: 2px;
+}
+ul li a{
+    color: rgb(50, 50, 50);
+    font-size: 20px;
+    font-weight: 600;
+
+}
+ul li a:hover{
+    text-decoration: underline;
+}
+img{
+    width: 500px;
+}
+
